@@ -1,0 +1,7 @@
+pandas
+matplotlib
+streamlit
+hydralit_components
+scikit-learn
+scikit-surprise
+plotly
