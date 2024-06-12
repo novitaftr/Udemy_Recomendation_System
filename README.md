@@ -15,4 +15,4 @@ This recommendation system implements three main methods:
 3. **Running the Application**: Run the application by executing the following command: streamlit run app.py
    
 ### Contributions:
-to this project are welcome! If you have any improvements, bug fixes, or feature additions, feel free to open a pull request.
+Contributions to this project are welcome! If you have additional examples, explanations, or improvements to add, feel free to open a pull request.
