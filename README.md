@@ -13,6 +13,5 @@ Usage
 1. Dataset Download: Download the Udemy Course dataset from the provided Kaggle links and place it in the data/ directory.
 2. Environment Setup: Set up your Python environment and install the required dependencies
 3. Running the Application: Run the application by executing the following command: streamlit run app.py
-
-Contributing
+   
 Contributions to this project are welcome! If you have any improvements, bug fixes, or feature additions, feel free to open a pull request.
