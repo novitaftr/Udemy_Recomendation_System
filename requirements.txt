@@ -1,7 +1,7 @@
-pandas
+pandas==2.2.2
 matplotlib
-streamlit
-hydralit_components
-scikit-learn
+streamlit==1.35.0
+hydralit_components==1.0.10
+scikit-learn==1.5.0
 scikit-surprise
-plotly
+plotly==5.22.0
