@@ -3,5 +3,5 @@ matplotlib
 streamlit==1.35.0
 hydralit_components==1.0.10
 scikit-learn==1.5.0
-scikit-surprise
+scikit-surprise==1.1.4
 plotly==5.22.0
